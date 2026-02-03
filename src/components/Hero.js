@@ -18,7 +18,9 @@ function Hero() {
           </div>
         </div>
         <div className="hero-image">
-          <div className="hero-avatar">SR</div>
+          <div className="hero-avatar">
+            <img src="/profile.jpg" alt="Selvarani R" />
+          </div>
         </div>
       </div>
     </section>
